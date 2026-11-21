@@ -1,46 +1,46 @@
 # Hi, I'm Ashokkumar S 👋
-### Associate Product Manager | Product Analyst | Ex-Personal Banker (DBS Bank)
+### Associate Product Manager | Product Strategist | Ex-Personal Banker (DBS Bank)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ashokkumarone.github.io-blue?style=flat&logo=google-chrome)](https://ashokkumarone.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokkumarone-0077b5?style=flat&logo=linkedin)](https://linkedin.com/in/ashokkumarone)
-[![GitHub](https://img.shields.io/badge/GitHub-ashokkumarone-181717?style=flat&logo=github)](https://github.com/ashokkumarone)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ashokkumarone.github.io-gold?style=for-the-badge&logo=google-chrome)](https://ashokkumarone.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ashokkumarone-0077b5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ashokkumarone)
+[![GitHub](https://img.shields.io/badge/GitHub-ashokkumarone-181717?style=for-the-badge&logo=github)](https://github.com/ashokkumarone)
 
 📍 **Location:** Erode, Tamil Nadu, India  
-🎯 **Focus:** Consumer Tech, OTT / Media Streaming, FinTech & Operations
+🎯 **Focus:** FinTech CBS & Operations, Consumer Streaming, Big-Tech Product Strategy  
+💼 **Open to:** Associate Product Manager, Product Analyst & Junior PM roles
 
 ---
 
 ## 🚀 About Me
-I bridge the gap between user behavior, business viability, and functional prototypes. With hands-on experience in banking operations at DBS Bank and a deep passion for digital products, I specialize in identifying market frictions, crafting data-backed product strategies, and building working proofs-of-concept (POCs).
+I bridge the gap between user behavior, business economics, and functioning prototypes. Combining ground-level **Personal Banker experience at DBS Bank India** with technical computer science foundations, I specialize in uncovering high-friction bottlenecks, crafting data-backed product strategies, and building live, working proofs-of-concept.
 
-- 🔭 **Currently working on:** Concept product cases for high-scale platforms and media ecosystems.
-- 💡 **Core philosophy:** Great products come from combining qualitative empathy, quantitative market insights, and tangible execution.
-- 💬 **Ask me about:** Indian OTT growth metrics, linear-to-digital media transitions, and branch banking workflows.
+- 💡 **Core philosophy:** "Decks don't ship. Code does." Great product thinking pairs quantitative market empathy with tangible execution.
+- 🏛️ **Domain Authority:** Retail branch banking operations, e-KYC compliance, core banking systems (CBS), and Indian OTT media economics.
+- 📊 **Certifications:** IBM Excel Certified (100% grade).
 
 ---
 
-## 🌟 Featured Product Strategy & Prototypes
+## 🌟 Featured Product Strategy & Production Prototypes
 
 | Project | Domain | Type | Highlights & Deliverables |
 | :--- | :--- | :--- | :--- |
-| **[Google Product Strategy Cases](https://ashokkumarone.github.io/Google-Product-Strategy-Cases/)** ([Repo](https://github.com/ashokkumarone/Google-Product-Strategy-Cases)) | Consumer Apps | Live Portal & PRD | 4 independent product proposals for GPay, Search Campus Guild, Shorts Smart Bar, and Meet Couple Pack. Includes interactive prototype flows. |
-| **[OTT India Disruption Strategy](https://ashokkumarone.github.io/OTT-India-Disruption-Strategy/)** ([Repo](https://github.com/ashokkumarone/OTT-India-Disruption-Strategy)) | Media & Streaming | Live Portal & Framework | Platform-agnostic 12-pillar framework addressing monetization and conversion gaps in India using data from JustWatch, EY-IAMAI & MPA. |
-| **[OneBank](https://ashokkumarone.github.io/OneBank/)** ([Repo](https://github.com/ashokkumarone/OneBank)) | FinTech / Enterprise | Live React App | Operations dashboard for branch banking teams — consolidating onboarding, deposits, loans, and branch performance into one interface. |
-| **[Flux](https://ashokkumarone.github.io/Flux/)** ([Repo](https://github.com/ashokkumarone/Flux)) | Streaming UX | Live React App | Unified audio & video platform concept allowing seamless switching between watching and listening modes without losing playback state. |
-| **[Tuning](https://ashokkumarone.github.io/Tuning-Music/)** ([Repo](https://github.com/ashokkumarone/Tuning-Music)) | Social & Music | Live React App | Social music communication layer for Spotify — sharing timestamped song moments, emoji reactions, and synchronous music chat. |
-| **[TN Channel Strategy](https://github.com/ashokkumarone/TN-Channel-Strategy)** | Linear TV & Media | Product Case Study | User-driven linear television strategy bridging traditional broadcasting with on-demand user choice in regional markets. |
+| **[OneBank](https://ashokkumarone.github.io/OneBank/)** ([Repo](https://github.com/ashokkumarone/OneBank)) | FinTech / Enterprise CBS | Live React 19 App | Enterprise Core Banking operations portal featuring the flagship **Request Tracker** (solving retail banking's "come back tomorrow" failure loop), 7-step e-KYC onboarding, universal CBS search, and deposit/loan management. Built from real DBS Bank banker workflows. |
+| **[Google Product Strategy Cases](https://ashokkumarone.github.io/Google-Product-Strategy-Cases/)** ([Repo](https://github.com/ashokkumarone/Google-Product-Strategy-Cases)) | Big-Tech Strategy | Live Portal & PRD Suite | 4 comprehensive PRDs targeting user retention across GPay Gifting, Search Campus Guild, Shorts Smart Bar, and Meet Couple Pack. Includes interactive 7-screen Shorts UX flow and 10-page strategy PDF. |
+| **[OTT India Disruption Strategy](https://ashokkumarone.github.io/OTT-India-Disruption-Strategy/)** ([Repo](https://github.com/ashokkumarone/OTT-India-Disruption-Strategy)) | Media & Streaming | Live Strategy Portal | Platform-agnostic 12-pillar framework addressing monetization and piracy gaps in India (600M+ viewers, 24% conversion, ₹8,700 Cr piracy leakage) using data from JustWatch, EY-IAMAI & MPA. Includes 6-page PDF. |
+| **[Flux](https://ashokkumarone.github.io/Flux/)** ([Repo](https://github.com/ashokkumarone/Flux)) | Consumer Streaming | Live React App | Unified audio & video platform featuring instant 0-latency mode switching without losing playback state (saves 75% data/battery with screen off), Active Audience Algorithm, and depth-based Creator Fair Pay. |
+| **[Tuning Music](https://ashokkumarone.github.io/Tuning-Music/)** ([Repo](https://github.com/ashokkumarone/Tuning-Music)) | Social Audio | Live React App | Social music communication layer for Spotify ("No keyboard. Just music.") — sharing timestamped song moments, emoji reactions, and synchronous music chat. Backed by PRD, relational SQL schema, and freemium model. |
 
 ---
 
 ## 🛠️ Skills & Toolkit
 
-- **Product Strategy & Management:** Product Discovery, PRD Writing, User Journey Mapping, Feature Prioritization, Trade-off Analysis, Go-To-Market (GTM)
-- **Data & Analytics:** Problem Structuring, Market Sizing (TAM/SAM/SOM), Metrics & KPI Definition, Funnel & Cohort Analysis
-- **Prototyping & Tech:** TypeScript, React, HTML5/CSS3, Git, REST APIs
-- **Domain Expertise:** Retail Banking & KYC Operations, Media Streaming & Subscription Economics
+- **Product Strategy & Management:** PRD Authoring, User Journey Mapping, Prioritization (RICE/MoSCoW), TAM/SAM Sizing, Unit Economics, Funnel Optimization
+- **Data & Analytics:** IBM Excel Certified (100%), Relational SQL Schema Design, Python, Cohort Retention, KPI Definition
+- **Technical & Prototyping:** React 19, TypeScript, Tailwind CSS, REST APIs, Git, Rapid Interactive Prototyping
+- **Domain Expertise:** Retail Banking CBS Operations, e-KYC Compliance, OTT Streaming Economics, Anti-Piracy IP Frameworks
 
 ---
 
 <div align="center">
-  <sub>Built with focus on user empathy and data-driven product execution. Connect with me on <a href="https://linkedin.com/in/ashokkumarone">LinkedIn</a>.</sub>
+  <sub>Built with intention. Open to APM & Product Analyst opportunities. Connect with me on <a href="https://linkedin.com/in/ashokkumarone">LinkedIn</a> or reach out at <a href="mailto:ashokkumarone@outlook.com">ashokkumarone@outlook.com</a>.</sub>
 </div>
