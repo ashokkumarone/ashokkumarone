@@ -16,7 +16,11 @@ I bridge the gap between user behavior, business economics, and functioning prot
 
 - 💡 **Core philosophy:** "Decks don't ship. Code does." Great product thinking pairs quantitative market empathy with tangible execution.
 - 🏛️ **Domain Authority:** Retail branch banking operations, e-KYC compliance, core banking systems (CBS), and Indian OTT media economics.
-- 📊 **Certifications:** IBM Excel Certified (100% grade).
+- 📊 **Certifications & Specializations:**
+  - **PMI® (Project Management Institute):** The AI-Native Product Manager's Toolkit · Becoming an AI-First Product Leader · Technology for Product Managers
+  - **IIBA® (International Institute of Business Analysis):** Becoming a Product Manager: A Complete Guide
+  - **LinkedIn Learning:** Transitioning to Product Management
+  - **IBM:** IBM Excel Certified (100% grade)
 
 ---
 
